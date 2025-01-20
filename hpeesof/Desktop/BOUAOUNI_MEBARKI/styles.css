@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e7f7ff; 
+    color: #333333;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #A9f1ff; 
+    color: #ffffff;
+    padding: 20px ;
+}
+
+
+footer {
+    background-color: #A9f1ff;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+main {
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+
+
+
+nav ul li a:hover {
+    background-color: #80b3ff; 
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #205081; 
+}
+
+h1{
+	text-align: center;
+}
+
+
+a {
+    color: #205081;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+img {
+    max-width: 100%;
+}
+.imageprincipale{
+	text-align: center;
+}
+.universitepublique{
+	float: left;
+}
+.ecolepublique{
+	float: right;
+
+}
+.lestableau{
+	display: flex;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #99c2ff;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #B9f1ff;
+}

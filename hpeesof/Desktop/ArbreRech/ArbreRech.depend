@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701360839 source:c:\users\samy\desktop\arbrerech\main.c
+	<stdio.h>
+	<stdlib.h>
+
