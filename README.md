@@ -1,14 +1,14 @@
-Description
+## Description
 
 This project is developed using Android Studio and Java. It allows users to edit metadata tags for audio files, sort album artists, browse files and folders, and provides seamless playback controls.
 
-Developers
+## Developers
 
 Bouaouni Mohamed Samy
 
 Madi Nadjim
 
-Features
+## Features
 
 1. ID3v3 Tag Editing
 
@@ -32,7 +32,7 @@ Quickly access play, pause, skip, and volume controls.
 
 Smooth playback experience with easy-to-use controls.
 
-How to Use
+## How to Use
 
 Installation:
 
@@ -54,7 +54,7 @@ Playback Controls:
 
 Use the playback interface for quick controls like play, pause, skip, and adjust volume.
 
-Requirements
+## Requirements
 
 
 Java Development Kit (JDK): Version 8 or later
